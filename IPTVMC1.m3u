@@ -107,10 +107,10 @@ https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pazevida.org.br/wp-content/uploads/2024/06/MIDIA-KIT-TV-FELIZ_Pagina_01-1024x576.jpg" group-title="NORDESTE",TV FELIZ RN
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w751926212.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO
+#EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="NORDESTE",NOSSA TV MOSSORO
 https://cdn.livespanel.com/nossatv/nossatv/chunks.m3u8?nimblesessionid=113767985
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta RN
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="NORDESTE", TV Gazeta RN
 https://live.eu-north-1b.cf.dmcdn.net/sec2(lmoj6DrXBlU5R3bKI2NKKn6hhJwTPhOpoW6ZsMa3zHuzTqjCoRj3DP8KNWrxtIA0c7ZC29T6zT5JeYopRiUI8XtG2_BRxKqz92o_IJcLSi_wfm6VUEwVjuYteQaZZ2Ib)/dm/3/x8ttlxm/s/live-1080.m3u8#cell=lcf-eu-north-1b
 
 ############################################################################ CANAIS ESPORTES
